@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Lesson5_CS\\Lesson5_CS.csproj": {}
+    "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Lesson5_CS\\Lesson5_CS.csproj": {
+    "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Lesson5_CS\\Lesson5_CS.csproj",
-        "projectName": "Lesson5_CS",
-        "projectPath": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Lesson5_CS\\Lesson5_CS.csproj",
+        "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Task2\\Task2.csproj",
+        "projectName": "Task2",
+        "projectPath": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Lesson5_CS\\obj\\",
+        "outputPath": "C:\\Users\\Igor\\source\\repos\\Lesson5_CS\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",

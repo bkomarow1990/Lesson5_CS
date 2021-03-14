@@ -69,6 +69,10 @@ namespace Lesson5_CS
                 }
                 return one.Equals(two);
             }
+            public static bool operator!=(Fraction one, Fraction two)
+            {
+                return !(one == two);
+            }
         }
 
         static void Main(string[] args)
